@@ -25,4 +25,4 @@ Um aplicativo simples e interativo desenvolvido em **Flutter** para gerenciar a 
 
 
 
-!["Print da tela mostrando funcionamento do aplicativo"](print_tela.png)
+!["Print da tela mostrando funcionamento do aplicativo"](assets/images/print_tela.png)
