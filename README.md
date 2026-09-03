@@ -22,3 +22,7 @@ Um aplicativo simples e interativo desenvolvido em **Flutter** para gerenciar a 
 2. Clone este repositório:
    ```bash
    git clone [https://github.com/PedroBegali/CP_1_MOBILE.git](https://github.com/PedroBegali/CP_1_MOBILE.git)
+
+
+
+!["Print da tela mostrando funcionamento do aplicativo"](print_tela.png)
