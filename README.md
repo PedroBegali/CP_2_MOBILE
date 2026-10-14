@@ -35,14 +35,14 @@ O projeto foi construído em **Flutter/Dart** utilizando orientação a objetos 
 1. Certifique-se de ter o **Flutter** instalado na sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/PedroBegali/CP_1_MOBILE.git](https://github.com/PedroBegali/CP_1_MOBILE.git)
+   git clone [https://github.com/PedroBegali/CP_2_MOBILE.git](https://github.com/PedroBegali/CP_2_MOBILE.git)
  
 ## 🚀 Como executar o projeto
  
 1. Certifique-se de ter o **Flutter** instalado na sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/PedroBegali/CP_1_MOBILE.git](https://github.com/PedroBegali/CP_1_MOBILE.git)
+   git clone [https://github.com/PedroBegali/CP_2_MOBILE.git](https://github.com/PedroBegali/CP_2_MOBILE.git)
 
 
 ## 📸 Print do funcionamento
