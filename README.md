@@ -49,4 +49,4 @@ O projeto foi construído em **Flutter/Dart** utilizando orientação a objetos 
 !["Print da tela mostrando funcionamento do aplicativo"](assets/images/print_tela.png)
 
 ## 🎥 Link do vídeo do app em funcionamento
-["Gravação da tela mostrando funcionamento do aplicativo"](https://youtu.be/OiaxNoQFxcU)
+["Gravação da tela mostrando funcionamento do aplicativo"](https://youtu.be/-EVDWIOyvbs)
